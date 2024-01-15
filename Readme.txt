@@ -1,4 +1,4 @@
-## Goals
+Goals
 • To understand how to send SCSI command under WINDOWS environment .
 • Create a program to send read/write SCSI command to use the SSD .
 • Know the differences between Lab1: Uart command and Lab2: SCSI command.
