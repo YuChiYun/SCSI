@@ -4,7 +4,7 @@ Goals
 • Know the differences between Lab1: Uart command and Lab2: SCSI command.
 
 Requirement
-Argument parser (30%):
+Argument parser:
 --disk + %d: to select disk (You can get the info under Windows: 磁碟管理)
 --write and --read: to select operation to perform
 --lba + %d: to specify starting logical block address to perform operation on SSD
